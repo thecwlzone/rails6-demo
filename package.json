@@ -16,7 +16,7 @@
     "webpack-dev-server": "3.9.0"
   },
   "engines": {
-    "node": "13.1.0",
-    "yarn": "1.19.2"
+    "node": "13.8.0",
+    "yarn": "1.22.0"
   }
 }
